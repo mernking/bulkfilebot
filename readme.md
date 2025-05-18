@@ -1,4 +1,4 @@
-![[Pasted image 20250518013957.png]]
+![Screenshot from 2025-05-18 01-39-53](https://github.com/user-attachments/assets/0f46bfb2-d9f2-4ea5-aa14-fee47123b037)
 
 ````
 # 🔄✨ Bulk File Renamer CLI Tool
