@@ -3,11 +3,6 @@
 ````
 # 🔄✨ Bulk File Renamer CLI Tool
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-green)
-![npm](https://img.shields.io/badge/npm-%3E%3D8.0.0-blue)
-
-
 Effortlessly rename multiple files in bulk with options to add prefixes and suffixes!
 
 ## 🚀 Getting Started
