@@ -84,4 +84,6 @@ This project is licensed under the [MIT License](https://www.google.com/search?q
 
 ## 🧑‍💻 Author
 
-[chi david](https://github.com/mernking)
+
+[mernking](https://github.com/mernking)
+x: [@davidchidev](https://x.com/davidchidev)
